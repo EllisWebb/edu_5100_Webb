@@ -31,31 +31,31 @@ This project combines three seperate data sets containing predictive socioeconom
 
 - **Source:** EdGap.org ((https://www.edgap.org/#5/39.795/-95.993))
 - Variables Used From This Source
-	•	id — originally “NCESSCH School ID”
-	•	percent_college — originally “CT Pct Adults with College Degree”
-	•	rate_unemployment — originally “CT Unemployment Rate”
-	•	percent_married — originally “CT Pct Childre In Married Couple Family”
-	•	median_income — originally “CT Median Household Income”
-	•	average_act — originally “School ACT average (or equivalent if SAT score)”
-	•	percent_lunch — originally “School Pct Free and Reduced Lunch”
+  	- id — originally “NCESSCH School ID”
+	- percent_college — originally “CT Pct Adults with College Degree”
+	- rate_unemployment — originally “CT Unemployment Rate”
+	- percent_married — originally “CT Pct Childre In Married Couple Family”
+	- median_income — originally “CT Median Household Income”
+	- average_act — originally “School ACT average (or equivalent if SAT score)”
+	- percent_lunch — originally “School Pct Free and Reduced Lunch”
 - Primary Source for Socioeconomic Varibales & ACT Scores 
 
 - **Source:** National Institute for Education Statistics ((https://ies.ed.gov/))
 - Variables Used From This Source
-  •	year — originally “SCHOOL_YEAR”
-	•	id — originally “NCESSCH”
-	•	l_id — originally “LEAID”
-	•	state — originally “LSTATE”
-	•	zip_code — originally “LZIP”
-	•	school_type — originally “SCH_TYPE_TEXT”
-	•	school_level — originally “LEVEL”
-	•	charter — originally “CHARTER_TEXT”
+	- year — originally “SCHOOL_YEAR”
+	- id — originally “NCESSCH”
+	- l_id — originally “LEAID”
+	- state — originally “LSTATE”
+	- zip_code — originally “LZIP”
+	- school_type — originally “SCH_TYPE_TEXT”
+	- school_level — originally “LEVEL”
+	- charter — originally “CHARTER_TEXT”
 - Primary Source for School Identifying Characteristics
 
 - **Source:** National Institute for Education Statistics ((https://nces.ed.gov/ccd/elsi/tablegenerator.aspx))
 - Variables Used From This Source
-  •	l_id — originally “Agency ID - NCES Assigned [District] Latest available year”
-	•	salary_pupil — originally “Total Current Expenditures - Salary (Z32) per Pupil (V33) [District Finance] 2016-17”
+	- l_id — originally “Agency ID - NCES Assigned [District] Latest available year”
+	- salary_pupil — originally “Total Current Expenditures - Salary (Z32) per Pupil (V33) [District Finance] 2016-17”
 - Secondary Source for Socioeconimic Variable 
 
 ---
