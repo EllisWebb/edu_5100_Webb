@@ -29,7 +29,7 @@ This project combines three seperate data sets containing predictive socioeconom
 
 ## Data
 
-- **Source:** EdGap.org ((https://www.edgap.org/#5/39.795/-95.993))
+### **Source:** EdGap.org ((https://www.edgap.org/#5/39.795/-95.993))
 - Variables Used From This Source
   	- id — originally “NCESSCH School ID”
 	- percent_college — originally “CT Pct Adults with College Degree”
@@ -42,7 +42,7 @@ This project combines three seperate data sets containing predictive socioeconom
 
 
 
-- **Source:** National Institute for Education Statistics ((https://ies.ed.gov/))
+### **Source:** National Institute for Education Statistics ((https://ies.ed.gov/))
 - Variables Used From This Source
 	- year — originally “SCHOOL_YEAR”
 	- id — originally “NCESSCH”
@@ -56,7 +56,7 @@ This project combines three seperate data sets containing predictive socioeconom
 
 
 
-- **Source:** National Institute for Education Statistics ((https://nces.ed.gov/ccd/elsi/tablegenerator.aspx))
+### **Source:** National Institute for Education Statistics ((https://nces.ed.gov/ccd/elsi/tablegenerator.aspx))
 - Variables Used From This Source
 	- l_id — originally “Agency ID - NCES Assigned [District] Latest available year”
 	- salary_pupil — originally “Total Current Expenditures - Salary (Z32) per Pupil (V33) [District Finance] 2016-17”
