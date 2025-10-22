@@ -40,6 +40,7 @@ This project combines three seperate data sets containing predictive socioeconom
 	- percent_lunch — originally “School Pct Free and Reduced Lunch”
 - Primary Source for Socioeconomic Varibales & ACT Scores 
 
+
 - **Source:** National Institute for Education Statistics ((https://ies.ed.gov/))
 - Variables Used From This Source
 	- year — originally “SCHOOL_YEAR”
@@ -51,6 +52,7 @@ This project combines three seperate data sets containing predictive socioeconom
 	- school_level — originally “LEVEL”
 	- charter — originally “CHARTER_TEXT”
 - Primary Source for School Identifying Characteristics
+
 
 - **Source:** National Institute for Education Statistics ((https://nces.ed.gov/ccd/elsi/tablegenerator.aspx))
 - Variables Used From This Source
