@@ -60,7 +60,7 @@ This project combines three seperate data sets containing predictive socioeconom
 - Variables Used From This Source
 	- l_id — originally “Agency ID - NCES Assigned [District] Latest available year”
 	- salary_pupil — originally “Total Current Expenditures - Salary (Z32) per Pupil (V33) [District Finance] 2016-17”
-- Secondary Source for Socioeconimic Variable 
+- Secondary Source for Socioeconomic Variables 
 
 ---
 
