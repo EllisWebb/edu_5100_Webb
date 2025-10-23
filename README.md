@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project combines three seperate data sets containing predictive socioeconomic variables that were fit using a series of linear regression modles. 
+This project combines three separate datasets from the 2016–2017 school year, containing predictive socioeconomic variables that were fit using a series of linear regression models. These models were then assessed for accuracy and statistical significance. We found a strong level of accuracy across all our models, with the most accurate being the one fit to all predictor variables. The less accurate but more practical model was also highly reliable, with both models predicting within ~1.0–1.2 points of students’ ACT scores.
 
 
 - **Objective:** Determine what combination of, if any, scoioeconomic varaibles can predict ACT scores for highschool students. 
